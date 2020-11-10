@@ -2,7 +2,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-# Sign up
+# 06 Sign up
 ### 19 group project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
@@ -18,4 +18,4 @@ Design: [Sign up modal](https://cdn.discordapp.com/attachments/64853613967795815
 - background images
 
 ## Authors
-[Rimantas](https://github.com/belauzas)
+[Laimonas](https://github.com/LaimonasMas)
