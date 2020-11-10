@@ -14,8 +14,9 @@ body {
             float: left;
             padding: 40px;
             padding-bottom: 20px;
-
             background-color: #0069BA;
+            background-image: url(../imge1/Nuotrauka.png);
+            
             color: white;
             position: absolute;
             top: 30px;
